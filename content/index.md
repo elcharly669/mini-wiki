@@ -2,24 +2,8 @@
 title: Inicio
 ---
 
-## Bienvenido
+<div style="text-align: center; margin: 4rem auto; max-width: 420px; line-height: 1.9;">
+  <p style="font-style: italic;">Escribe con sangre: y aprenderás que la sangre es espíritu.</p>
+  <p style="font-size: 0.85em; margin-top: 1.2rem;">— Nietzsche, <em>Así habló Zaratustra</em></p>
+</div>
 
-Este es un toolkit metodológico para pensar con rigor.
-
-No es un blog. No es un curso. No es un repositorio de notas.
-
-Es una capa intermedia entre ideas, herramientas y comunidad.
-
----
-
-### Cómo navegar
-
-Cada entrada tiene tres capas:
-
-- **Fast** — uso inmediato, menos de 5 minutos
-- **Guide** — explicación operativa
-- **Theory** — fundamento conceptual
-
----
-
-> *"Reducir la fricción para pensar con rigor."*
