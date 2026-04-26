@@ -48,6 +48,26 @@ Cada módulo puede usarse sin leer otros 10 primero.
 
 ---
 
+## Cómo formular una objeción
+
+La capa **Debate** no acepta comentarios libres. Cada objeción debe tener estructura (modelo Toulmin):
+
+| Elemento | Pregunta |
+|---|---|
+| **Tesis** | ¿Qué afirmo exactamente? |
+| **Dato** | ¿En qué evidencia me baso? |
+| **Garantía** | ¿Por qué ese dato soporta mi tesis? |
+| **Respaldo** | ¿Qué principio sustenta la garantía? |
+| **Calificador** | ¿Con qué grado de certeza? |
+| **Excepción** | ¿Cuándo no aplicaría mi objeción? |
+
+Además se debe declarar:
+
+- **Tipo de ataque** — ¿ataca el dato, la garantía o la tesis?
+- **Estado propuesto** — ¿a qué estado debería pasar la hipótesis?
+
+---
+
 ## Primera serie de entradas
 
 - Metodología. Epistemología fundamental.

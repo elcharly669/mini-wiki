@@ -58,6 +58,24 @@ Sistema de estados para ideas:
 | `Refutada` | Falsificada con trazabilidad |
 | `Aporía` | Límite irresoluble registrado explícitamente |
 
+#### Estructura de una objeción (Toulmin)
+
+Cada comentario o refutación debe incluir los siguientes elementos:
+
+| Elemento | Pregunta que responde |
+|---|---|
+| **Tesis** | ¿Qué afirmo exactamente? |
+| **Dato** | ¿En qué evidencia o fuente me baso? |
+| **Garantía** | ¿Por qué ese dato soporta mi tesis? |
+| **Respaldo** | ¿Qué principio o teoría sustenta la garantía? |
+| **Calificador** | ¿Con qué grado de certeza lo afirmo? |
+| **Condición de excepción** | ¿En qué caso mi objeción no aplicaría? |
+
+Además, cada objeción debe declarar:
+
+- **Tipo de ataque** — ¿ataca el dato, la garantía o la tesis directamente?
+- **Estado propuesto** — ¿qué estado debería adoptar la hipótesis tras esta objeción?
+
 ### Fase III — Infraestructura Pública
 
 Wiki navegable con capas de profundidad:
