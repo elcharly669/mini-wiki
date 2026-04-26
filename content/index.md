@@ -51,6 +51,7 @@ Cada módulo puede usarse sin leer otros 10 primero.
 ## Primera serie de entradas
 
 - Metodología. Epistemología fundamental.
+- Nota de ejemplo [[Diagramas Epistemología - Hessen]]
 
 1. Cómo evaluar una afirmación
 2. Tipos de afirmaciones
@@ -65,7 +66,7 @@ Cada módulo puede usarse sin leer otros 10 primero.
 
 🌱 `Fase I — En construcción`
 
-El vault está siendo poblado con las primeras entradas metodológicas. El protocolo dialéctico (estados de hipótesis, registro de objeciones, versionado conceptual) se documenta en la [[meta-page|Nota Fundacional]].
+El vault está siendo poblado con las primeras entradas metodológicas. El protocolo dialéctico (estados de hipótesis, registro de objeciones, versionado conceptual) se documenta en la [[Meta-Nota]].
 
 ---
 
