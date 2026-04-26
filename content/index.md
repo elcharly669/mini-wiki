@@ -4,7 +4,7 @@ description: Mini Wiki — Infraestructura mínima para pensar con rigor en la e
 ---
 
 <div style="text-align: center; margin: 3rem auto 2rem; max-width: 520px; line-height: 1.9;">
-  <p style="font-style: italic; font-size: 1.1em;">"Escribe con sangre: y aprenderás que la sangre es espíritu."</p>
+  <p style="font-style: italic; font-size: 1.1em;">"Escribe con sangre: y experimentarás que la sangre es espíritu."</p>
   <p style="font-size: 0.82em; margin-top: 1rem; opacity: 0.7;">— Nietzsche, <em>Así habló Zaratustra</em></p>
 </div>
 
