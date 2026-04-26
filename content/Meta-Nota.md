@@ -2,6 +2,8 @@
 share_link: https://share.note.sx/jvahsxq8#4RcMBejS8wYlvZCG1h6aSxsKUE+qqjvZBiWP14WqNYo
 share_updated: 2026-03-01T16:20:14-06:00
 draft: true
+title: Meta-Nota
+description: Meta-Nota
 ---
 ## Resumen en tres fases
 
